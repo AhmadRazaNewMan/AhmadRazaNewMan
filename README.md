@@ -1,80 +1,107 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmadRazaNewMan.AhmadRazaNewMan" />
+# 👋 Hi There! I'm Ahmad Raza
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmad+Raza;" />
-</h1>
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00BFFF&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%E2%9A%99%EF%B8%8F;Innovator+%7C+Problem+Solver+%F0%9F%9A%80;Building+Tomorrow's+Tech+Today+%F0%9F%4D)
 
-<h3 align="center">A passionate software developer from Pakistan 🇵🇰</h3>
-
-<br/>
+## 🌟 Professional Profile
 
 <div align="center">
- 
- 🔭 I’m currently working as a **Full Stack Web Developer** at **ESG DATA**
- 
- 🌱 I’m currently learning **Data Science, Machine Learning, and AWS**
-
-💬 Ask me about **Node.js, React, RAG, Generative AI, or anything [here](https://github.com/AhmadRazaNewMan/issues)**
-
-⚡ Fun fact: ****
-
-</div>
- 
-<div align="center"> 
-  <a href="mailto:ahmadraza41@icloud.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmad-raza-488563262/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ahmadraza-portfolio.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
-  </a>
+  <img src="https://github.com/AhmadRazaNewMan/AhmadRazaNewMan/blob/main/banner.gif" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+### 📝 About Me
+
+I'm a passionate software developer from Pakistan, currently pushing the boundaries of technology as a Full Stack Web Developer at METASENSE. My professional journey is characterized by a relentless pursuit of innovation, focusing on modern web technologies, cloud computing, and artificial intelligence.
+
+### 🎓 Education
+
+- **Bachelor of Science in Computer Science**
+  - University of Engineering and Technology (UET), Pakistan
+  - Specialization in Software Engineering and Emerging Technologies
+
+### 💼 Professional Highlights
+
+- 🚀 Full Stack Web Developer at METASENSE
+- 🌐 Working on Swedish ESG Data Project
+- 💡 Specializing in Generative AI, Machine Learning, and Cloud Technologies
+
+## 🛠️ Technical Expertise
+
+### Languages & Frameworks
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,antdesign,vscode,github,git,figma,heroku,vercel" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask,redis,aws" />
-    <img src="https://skillicons.dev/icons?i=django,selenium,graphql,cloudflare,postman,r" />
-    <img src="https://img.shields.io/badge/-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LangChain-blue?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LlamaIndex-green?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,django,flask,nextjs&perline=8" />
 </div>
 
+### Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,firebase,heroku,vercel,docker,git,github,gitlab&perline=8" />
+</div>
 
-<br/>
-<hr/>
+### AI & Machine Learning Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LlamaIndex-green?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+## 🚀 Key Professional Capabilities
+
+| Domain | Technologies & Skills |
+|--------|------------------------|
+| Web Development | React, Node.js, Express.js, Django, Next.js |
+| Database Management | MongoDB, MySQL, Firebase, Redis |
+| Cloud Services | AWS Lambda, Firebase, Heroku, Vercel |
+| AI & Machine Learning | Retrieval-Augmented Generation (RAG), Generative AI, LangChain |
+| Design & Prototyping | Figma, Adobe XD |
+
+## 🌐 Professional Philosophy
+
+💡 **Innovation through Continuous Learning**
+- Committed to staying at the forefront of technological advancements
+- Passionate about creating scalable, efficient, and intelligent solutions
+- Believer in clean, maintainable code and best software engineering practices
+
+## 🏆 GitHub Performance
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadRazaNewMan&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadRazaNewMan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+</div>
+
+## 🌍 Professional Projects
+
+| Project | Description | Key Technologies |
+|---------|-------------|------------------|
+| 🌐 Climate Tracker Initiative | Environmental data platform | Python, React, AWS |
+| 🤖 ESG Data Analytics Platform | AI-powered analytics solution | Pinecone, RAG, OpenAI, LangChain |
+| 🎓 University Prospectus Chatbot | GPT-driven information retrieval | GPT, LangChain, React |
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="mailto:ahmadraza41@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmad-raza-488563262/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ahmadraza-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AhmadRazaNewMan/AhmadRazaNewMan/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
   <br/><br/><br/>
 </div>
 
-<hr/>
+## ☕ Support My Journey
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=AhmadRazaNewMan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AhmadRazaNewMan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadRazaNewMan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
+  <img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Support me on Ko-fi' />
+</a>
 
-<br/><br/>
+---
 
-<hr/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmadRazaNewMan&label=Profile+Views&color=blueviolet" alt="Profile Views" />
+</p>
 
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+*Crafted with ❤️ by Ahmad Raza | Innovating at the Intersection of Technology and Creativity 🚀*
