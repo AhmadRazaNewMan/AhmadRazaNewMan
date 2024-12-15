@@ -16,15 +16,15 @@
 
 💬 Ask me about **Node.js, React, RAG, Generative AI, or anything [here](https://github.com/AhmadRazaCSIT/issues)**
 
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs!**
+⚡ Fun fact: ****
 
 </div>
  
 <div align="center"> 
-  <a href="mailto:webdevolopmentbyar@gmail.com">
+  <a href="mailto:ahmadraza41@icloud.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmadrazacsit" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-raza-488563262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://ahmadraza-portfolio.vercel.app/" target="_blank">
@@ -37,9 +37,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,antdesign,vscode,github,git,figma,heroku,vercel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask,redis,aws" />
+    <img src="https://skillicons.dev/icons?i=django,selenium,graphql,cloudflare,postman,r" />
+    <img src="https://img.shields.io/badge/-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LangChain-blue?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LlamaIndex-green?style=for-the-badge&logo=python&logoColor=white" />
 </div>
+
 
 <br/>
 <hr/>
