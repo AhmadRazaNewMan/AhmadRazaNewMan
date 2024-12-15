@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Data Science, Machine Learning, and AWS**
 
-💬 Ask me about **Node.js, React, RAG, Generative AI, or anything [here](https://github.com/AhmadRazaCSIT/issues)**
+💬 Ask me about **Node.js, React, RAG, Generative AI, or anything [here](https://github.com/AhmadRazaNewMan/issues)**
 
 ⚡ Fun fact: ****
 
@@ -52,7 +52,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AhmadRazaCSIT/AhmadRazaCSIT/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AhmadRazaNewMan/AhmadRazaNewMan/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
