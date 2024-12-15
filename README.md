@@ -15,8 +15,8 @@ I'm a passionate software developer from Pakistan, currently pushing the boundar
 ### 🎓 Education
 
 - **Bachelor of Science in Computer Science**
-  - University of Engineering and Technology (UET), Pakistan
-  - Specialization in Software Engineering and Emerging Technologies
+- University of Engineering and Technology (UET), Pakistan
+- Specialization in Software Engineering and Emerging Technologies
 
 ### 💼 Professional Highlights
 
@@ -84,13 +84,12 @@ I'm a passionate software developer from Pakistan, currently pushing the boundar
   <a href="https://ahmadraza-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </div>
 
+
+### 🌿 Contribution Graph
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AhmadRazaNewMan/AhmadRazaNewMan/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://ghchart.rshah.org/AhmadRazaNewMan" alt="Ahmad Raza's GitHub Contributions" />
 </div>
+
 
 ## ☕ Support My Journey
 
