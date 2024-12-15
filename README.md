@@ -87,7 +87,7 @@ I'm a passionate software developer from Pakistan, currently pushing the boundar
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AhmadRazaNewMan/AhmadRazaNewMan/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
