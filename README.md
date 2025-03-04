@@ -90,17 +90,10 @@ I'm a passionate software developer from Pakistan, currently pushing the boundar
   <img src="https://ghchart.rshah.org/AhmadRazaNewMan" alt="Ahmad Raza's GitHub Contributions" />
 </div>
 
-
-## ☕ Support My Journey
-
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-  <img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Support me on Ko-fi' />
-</a>
-
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmadRazaNewMan&label=Profile+Views&color=blueviolet" alt="Profile Views" />
 </p>
 
-*Crafted with ❤️ by Ahmad Raza | Innovating at the Intersection of Technology and Creativity 🚀*
+
