@@ -1,30 +1,30 @@
-# 👋 Hi There! I'm Ahmad Raza
+#  Hi There! I'm Ahmad Raza
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00BFFF&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%E2%9A%99%EF%B8%8F;Innovator+%7C+Problem+Solver+%F0%9F%9A%80;Building+Tomorrow's+Tech+Today+%F0%9F%4D)
 
-## 🌟 Professional Profile
+##  Professional Profile
 
 <div align="center">
   <img src="https://github.com/AhmadRazaNewMan/AhmadRazaNewMan/blob/main/banner.gif" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
-### 📝 About Me
+###  About Me
 
-I'm a passionate software developer from Pakistan, currently pushing the boundaries of technology as a Full Stack Web Developer at METASENSE. My professional journey is characterized by a relentless pursuit of innovation, focusing on modern web technologies, cloud computing, and artificial intelligence.
+I'm a passionate software developer from Pakistan, currently pushing the boundaries of technology as a Full Stack Engineer at CCRIPT. My professional journey is characterized by a relentless pursuit of innovation, focusing on modern web technologies, cloud computing, and artificial intelligence.
 
-### 🎓 Education
+###  Education
 
 - **Bachelor of Science in Computer Science**
 - University of Engineering and Technology (UET), Pakistan
 - Specialization in Software Engineering and Emerging Technologies
 
-### 💼 Professional Highlights
+###  Professional Highlights
+-  Frontend web intern at EncoderBytes
+-  Full Stack Web Developer at METASENSE
+-  Currently Full Stack Enginner at CCRIPT AGENCY
+-  Specializing in Generative AI, Machine Learning, and Cloud Technologies
 
-- 🚀 Full Stack Web Developer at METASENSE
-- 🌐 Working on Swedish ESG Data Project
-- 💡 Specializing in Generative AI, Machine Learning, and Cloud Technologies
-
-## 🛠️ Technical Expertise
+##  Technical Expertise
 
 ### Languages & Frameworks
 <div align="center">
@@ -44,7 +44,7 @@ I'm a passionate software developer from Pakistan, currently pushing the boundar
   <img src="https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
-## 🚀 Key Professional Capabilities
+##  Key Professional Capabilities
 
 | Domain | Technologies & Skills |
 |--------|------------------------|
@@ -54,14 +54,14 @@ I'm a passionate software developer from Pakistan, currently pushing the boundar
 | AI & Machine Learning | Retrieval-Augmented Generation (RAG), Generative AI, LangChain |
 | Design & Prototyping | Figma, Adobe XD |
 
-## 🌐 Professional Philosophy
+##  Professional Philosophy
 
 💡 **Innovation through Continuous Learning**
 - Committed to staying at the forefront of technological advancements
 - Passionate about creating scalable, efficient, and intelligent solutions
 - Believer in clean, maintainable code and best software engineering practices
 
-## 🏆 GitHub Performance
+##  GitHub Performance
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadRazaNewMan&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
@@ -72,11 +72,11 @@ I'm a passionate software developer from Pakistan, currently pushing the boundar
 
 | Project | Description | Key Technologies |
 |---------|-------------|------------------|
-| 🌐 Climate Tracker Initiative | Environmental data platform | Python, React, AWS |
-| 🤖 ESG Data Analytics Platform | AI-powered analytics solution | Pinecone, RAG, OpenAI, LangChain |
-| 🎓 University Prospectus Chatbot | GPT-driven information retrieval | GPT, LangChain, React |
+| Climate Tracker Initiative | Environmental data platform | Python, React, AWS |
+| ESG Data Analytics Platform | AI-powered analytics solution | Pinecone, RAG, OpenAI, LangChain |
+| University Prospectus Chatbot | GPT-driven information retrieval | GPT, LangChain, React |
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
   <a href="mailto:ahmadraza41@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
